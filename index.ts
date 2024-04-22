@@ -7,7 +7,8 @@
 // 2) user input for guessing number - Done
  
 // 3) compare user input with cmputer generated number and show result
-   
+    
+comsole.log("welcome to number Guessing Game");
   const randomNumber = Math.floor(Math.random() * 10  + 1 );
    
  
